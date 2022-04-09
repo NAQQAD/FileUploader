@@ -1,0 +1,43 @@
+
+
+h1 {
+    color: blue;
+    text-align: center; 
+}
+
+p {
+    color: blue;
+    background-color: greenyellow;
+    text-align: center;
+}
+
+.upload {
+    text-align: center;
+}
+
+body {
+    background: #0CE9AF;
+    display: flex;
+    flex-direction: column;
+    font-family: Lato;
+    height: 100%;
+    margin: auto;
+    text-shadow: 0 0px 2px rgba(245, 245, 245, .25);
+  }
+
+  .normal {
+    background: #0CE9AF;
+    display: flex;
+    flex-direction: column;
+    font-family: Lato;
+    height: 100%;
+    margin: auto;
+    text-shadow: 0 0px 2px rgba(245, 245, 245, .25);
+
+  }
+
+  .center {
+    border: 5px solid #FFFF00;
+    display: flex;
+    justify-content: center;
+    }
