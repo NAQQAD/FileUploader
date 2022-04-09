@@ -1,7 +1,8 @@
 This is a website that helps you upload a photo and get a link to share it later with someone else. 
 1)	First, you get to the home page and upload a file:
- 
- ![alt text](https://github.com/Anatechi/FileUploader/blob/master/README/1.png)
+ <p align="center">
+ <img src="https://github.com/Anatechi/FileUploader/blob/master/README/1.png">
+ </p>
  
 2)	Then, after checking the file extension, file size and correcting the file name, it saves it locally and provides a link.
  
