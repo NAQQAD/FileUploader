@@ -12,7 +12,7 @@ This is a website that helps you upload a photo and get a link to share it later
  
 -	This link is created with a simple hashing function to avoid bruteforcing the website.
 
-3)	When this link is shared with someone else, he can retrieve it anytime before the expiration date:
+3)	When this link is shared with someone else, he can retrieve the file anytime before the expiration date:
 
 <p align="center">
  <img src="https://github.com/Anatechi/FileUploader/blob/master/README/3.png">
